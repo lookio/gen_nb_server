@@ -1,5 +1,6 @@
 {application, gen_nb_server,
  [{description, "Simple behavior for writing non-blocking servers"},
   {vsn, "1.1"},
+  {registered, []},
   {modules, []},
   {applications, [kernel, stdlib]}]}.
