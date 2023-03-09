@@ -1,3 +1,5 @@
+migrated to gitlab: https://gitlab.com/l1905/maven-business/lookio-legacy/gen_nb_server
+
 ## Description
 gen_nb_server is an OTP behavior designed to simplify writing completely non-blocking TCP servers.
 Gone are the days of having to use a separate process to perform the listen/accept loop. Instead,
